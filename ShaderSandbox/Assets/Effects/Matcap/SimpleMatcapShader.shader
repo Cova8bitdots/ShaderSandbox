@@ -1,7 +1,7 @@
 ﻿// http://esprog.hatenablog.com/entry/2017/01/28/231735
 // を参考に作成
 
-Shader "Custom/SimpleMatcapShader"
+Shader "cova/UI/SimpleMatcapShader"
 {
 	Properties
 	{
